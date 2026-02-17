@@ -1,0 +1,1 @@
+Prisma Access uses a common cloud-based infrastructure that delivers multiple types of security services, including advanced threat prevention, web filtering, sandboxing, DNS security, credential theft prevention, DLP and next-generation firewall policies based on user-to-application, and host information profile.
